@@ -1,0 +1,6 @@
+id=omni_pie_arm64
+name=Omni-fy For Pie (arm64)
+version=v1.0
+versionCode=100
+author=Stark1296
+description=Omni ROM features for any 64 bit AOSP based pie ROM.
